@@ -1,4 +1,4 @@
-## Hi there 
+##  
 
 - current location: Berlin, Germany
 - previous coding experience: none 🤔
