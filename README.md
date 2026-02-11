@@ -1,7 +1,7 @@
 ##  
 
 - current location: Berlin, Germany
-- previous coding experience: none 🤔
+- previous coding experience: *none* 🤔
 - currently following 'Cytometry in R' Course 😄
 <!--
 **dekuFlow/dekuFlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
